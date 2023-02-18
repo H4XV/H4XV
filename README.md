@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<b>my Carrer</b>**
 
-- 🌱 I’m currently learning **<b>Website Hacking && HTML/CSS/JS</b>**
+- 🌱 I’m currently learning **<b>HTML/CSS/JS</b>**
 
 - 📫 How to reach me **<b>h4xv@proton.me</b>**
 
