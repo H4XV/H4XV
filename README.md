@@ -27,4 +27,10 @@
 <br><br><br>
 <img src="https://raw.githubusercontent.com/H4XV/H4XV/output/snake.svg" alt="Snake animation" />
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/H4XV/count.svg?"  />
+</div>
+
+###
