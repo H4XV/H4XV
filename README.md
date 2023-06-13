@@ -22,7 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/h4xv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="h4xv" /></a><a href="https://ko-fi.com/haxvv"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="haxvv" /></a></p><br><br>
 
-<br><br><br><br><br><br>
+<br><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=H4XV&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
