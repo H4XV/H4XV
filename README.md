@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/H4XV/count.svg?"  />
+  <img src="https://github.com/H4XV/H4XV/blob/main/snake.svg"/>
 </div>
 
 ###
